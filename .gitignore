@@ -1,0 +1,9 @@
+# Artefacts
+*.sim
+*.vcd
+
+# Editor
+#.vscode/settings.json
+
+# Synthesis output
+artefacts/
